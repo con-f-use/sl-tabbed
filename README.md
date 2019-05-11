@@ -1,6 +1,7 @@
 tabbed - generic tabbed interface
 =================================
-tabbed is a simple tabbed X window container.
+tabbed is a simple tabbed X window container by [suckless](https://tools.suckless.org/tabbed/).
+This has the transparency patch already applied.
 
 Requirements
 ------------
